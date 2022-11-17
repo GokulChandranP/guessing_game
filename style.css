@@ -1,0 +1,33 @@
+#numberinput{
+    background-color: #C96565;
+    height: 25px;
+    margin: 0 30px;
+}
+#cardname{
+    background-color: #F06E6E;
+    padding: 100px;
+    border-radius: 34px;
+    width: 400px;
+}
+#status{
+    background-color: #5B5015;
+    width: 100px;
+    padding: 15px;
+    margin: 60px auto 0 auto;
+    color: #fff;
+}
+#num{
+    background-color: #D9D9D9;
+    width: 100px;
+    padding: 5px 15px;
+    margin: 60px auto 0 auto;
+
+}
+#flex{
+    display: flex;
+    align-items: center;
+}
+
+button{
+    height: 25px;
+}
